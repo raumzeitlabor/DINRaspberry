@@ -2094,7 +2094,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="G$2" x="287.02" y="0"/>
 <instance part="X1" gate="A" x="317.5" y="93.98"/>
-<instance part="SK1" gate="G$1" x="269.24" y="154.94"/>
+<instance part="SK1" gate="G$1" x="266.7" y="154.94"/>
 <instance part="X2" gate="G$1" x="292.1" y="119.38" rot="R180"/>
 </instances>
 <busses>
@@ -2125,9 +2125,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 </segment>
 <segment>
 <pinref part="SK1" gate="G$1" pin="+5V0@2"/>
-<wire x1="299.72" y1="170.18" x2="302.26" y2="170.18" width="0.1524" layer="91"/>
+<wire x1="297.18" y1="170.18" x2="302.26" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="SK1" gate="G$1" pin="+5V0@4"/>
-<wire x1="299.72" y1="167.64" x2="302.26" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="297.18" y1="167.64" x2="302.26" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="167.64" x2="302.26" y2="170.18" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="170.18" x2="304.8" y2="170.18" width="0.1524" layer="91"/>
 <junction x="302.26" y="170.18"/>
